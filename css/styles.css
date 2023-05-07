@@ -118,9 +118,6 @@ ul {
   background-color: #404bbf;
 }
 
-.menu-nav-item.active::after {
-}
-
 .menu-nav-item:hover,
 .menu-nav-item:focus {
   color: #404bbf;
